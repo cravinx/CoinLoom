@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coinloom/static/css/main.b6c204db.css",
+    "main.js": "/coinloom/static/js/main.68b4daae.js",
+    "static/media/coinloom_logo.png": "/coinloom/static/media/coinloom_logo.4493fd0097688bae0464.png",
+    "index.html": "/coinloom/index.html",
+    "main.b6c204db.css.map": "/coinloom/static/css/main.b6c204db.css.map",
+    "main.68b4daae.js.map": "/coinloom/static/js/main.68b4daae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c204db.css",
+    "static/js/main.68b4daae.js"
+  ]
+}
